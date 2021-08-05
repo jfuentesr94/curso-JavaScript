@@ -1,0 +1,23 @@
+[33mcommit 1f1ffc82dee32a4dbf0ef6dc3d2c6402ebca93c8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: jfuentesr94 <jaime.afuentes18@gmail.com>
+Date:   Wed Aug 4 16:59:25 2021 -0600
+
+    se agrego codigo para figuras quemado
+
+[33mcommit 170c230513de17707b7289c51745abff02f17eda[m
+Author: jfuentesr94 <jaime.afuentes18@gmail.com>
+Date:   Wed Aug 4 16:57:34 2021 -0600
+
+    Se agrega codigo de figuras quemado
+
+[33mcommit 081b421be06de4145414686945f7b8512cd928ce[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jfuentesr94 <jaime.afuentes18@gmail.com>
+Date:   Wed Aug 4 12:15:29 2021 -0600
+
+    añadi la carpeta .vscode al gitignore
+
+[33mcommit 23061cbeb671fdea06e2936fdf3521fedf9445b2[m
+Author: jfuentesr94 <68979651+jfuentesr94@users.noreply.github.com>
+Date:   Wed Aug 4 11:22:11 2021 -0600
+
+    Initial commit
